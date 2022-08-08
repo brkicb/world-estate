@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://spaces.linkedweb-app-testing.info/static/css/main.039bf95e.css",
+    "main.js": "https://spaces.linkedweb-app-testing.info/static/js/main.f135b427.js",
+    "index.html": "https://spaces.linkedweb-app-testing.info/index.html",
+    "main.039bf95e.css.map": "https://spaces.linkedweb-app-testing.info/static/css/main.039bf95e.css.map",
+    "main.f135b427.js.map": "https://spaces.linkedweb-app-testing.info/static/js/main.f135b427.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.f135b427.js"
+  ]
+}
